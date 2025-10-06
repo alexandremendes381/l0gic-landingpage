@@ -97,6 +97,8 @@ cp .env.example .env.local
 
 2. Configure as variáveis de ambiente no arquivo `.env.local`:
 3. Online: `https://l0gic-landingpage-vr9l.vercel.app/`
+4. API REAL VERCEL NEXT_PUBLIC_API_URL=https://l0gic-backend-node.vercel.app
+
 ```env
 # Configurações da aplicação
 NEXT_PUBLIC_API_URL=https://sua-api-url-aqui.com
